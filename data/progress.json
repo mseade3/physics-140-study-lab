@@ -1,0 +1,31 @@
+{
+  "scores": [],
+  "topic_confidence": {
+    "1D / 2D Kinematics": 3,
+    "Newton's Laws & FBDs": 3,
+    "Friction & Inclined Planes": 3,
+    "Work & Energy": 3,
+    "Momentum & Collisions": 3,
+    "Rotational Kinematics": 3,
+    "Torque & Equilibrium": 3,
+    "Angular Momentum": 3
+  },
+  "hours_logged": 0.0,
+  "notes": "",
+  "pdf_coverage": {
+    "slides/Lecture-01-na.pdf": {
+      "covered_through": 21,
+      "total_pages": 41,
+      "updated": "2026-09-08",
+      "kind": "slides"
+    }
+  },
+  "components": {
+    "exam_1": null,
+    "exam_2": null,
+    "exam_3": null,
+    "exam_4": null,
+    "mastering": null,
+    "iclicker": null
+  }
+}
